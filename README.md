@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Welcome to My GitHub Profile!<br><br>Hello! I'm Karan, a passionate software developer who loves to explore and create with technology. Welcome to my GitHub profile! Here you will find a collection of my projects, interests, and the things I'm working on.<br><br>Skills:<br>-Languages: C, C++, Java, Python<br>- Technologies: Linux, Terminal, CAD<br>- Other Skills: Problem-solving, Learning new things<br><br>Currently Learning<br>- Enhancing my skills in software development.<br>- Exploring more about Linux and terminal commands.<br>- Getting better at CAD and related technologies.<br><br>---<br><br>I’m always looking for new challenges and ways to improve. If you have an interesting project or idea, feel free to reach out!<br><br>Thanks for visiting my profile! Have a great day!<br>
 
 
