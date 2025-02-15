@@ -10,7 +10,6 @@ Welcome to My GitHub Profile!<br><br>Hello! I'm Karan, a passionate software dev
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karankatur&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karankatur&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karankatur&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karankatur&icon=0&color=2)](https://visitcount.itsvg.in)
